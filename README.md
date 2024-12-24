@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi 👋
+
+Hard-working student who interested in UI development
 
 <!--
 **sseerr44/sseerr44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
